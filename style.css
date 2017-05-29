@@ -1,3 +1,38 @@
 @charset "utf-8";
 /* CSS Document */
+body{
+	background-color: black;
+	text-align: center;
+}
+h1{
+	font-family: Verdana;
+	font-size: 50px;
+	font-weight: normal;
+	color: white;
+}
+h2{
+	font-family: Verdana;
+	color: white;
+	font-size: 42px;
+	font-weight: 300;
+}
+.download{
+	color:aquamarine;
+	font-size: 16px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+p{
+	font-family: Verdana;
+	font-size: 21px;
+	color: grey;
+}
+#copyright{
+	text-align: right;
+}
+#phone {
+	text-align: justify;
+	clear: both;
 
+
+}
